@@ -1,5 +1,3 @@
-# Site-angular
-
 <html ng-app="app">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
